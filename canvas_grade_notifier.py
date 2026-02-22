@@ -23,10 +23,9 @@ from datetime import datetime
 #  (set these as GitHub Actions secrets)
 # ─────────────────────────────────────────────
 
-CANVAS_URL        = os.environ["https://crms.instructure.com"]         # e.g. https://crms.instructure.com
-CANVAS_API_TOKEN  = os.environ["8069~FenRExLAFVcuMTAv6GFTAKUhJ8AJMFNam8MFBUXN9CFkyanPu4ZxJ4m8BwReLHVY"]
-NTFY_TOPIC        = os.environ["jsmith-canvas-8472"]         # e.g. phoenix123-canvas-8472
-
+CANVAS_URL        = os.environ["CANVAS_URL"]
+CANVAS_API_TOKEN  = os.environ["CANVAS_API_TOKEN"]
+NTFY_TOPIC        = os.environ["NTFY_TOPIC"]
 SEEN_GRADES_FILE      = "seen_grades.json"
 SEEN_ASSIGNMENTS_FILE = "seen_assignments.json"
 
