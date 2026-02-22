@@ -1,0 +1,1148 @@
+{
+  "1750_97609": {
+    "name": "Homework: Summer Assignment",
+    "course": "AP Calculus AB",
+    "due_at": "2025-09-02T05:00:00Z",
+    "first_seen": "2026-02-22T23:53:24.882917"
+  },
+  "1750_97608": {
+    "name": "Homework: AP Classroom Due 9/4",
+    "course": "AP Calculus AB",
+    "due_at": "2025-09-05T05:00:00Z",
+    "first_seen": "2026-02-22T23:53:25.079428"
+  },
+  "1750_97670": {
+    "name": "Homework: AP Classroom Due 9/7",
+    "course": "AP Calculus AB",
+    "due_at": "2025-09-08T05:00:00Z",
+    "first_seen": "2026-02-22T23:53:25.276453"
+  },
+  "1750_97607": {
+    "name": "Homework: Khan Academy Due 9/10",
+    "course": "AP Calculus AB",
+    "due_at": "2025-09-11T05:00:00Z",
+    "first_seen": "2026-02-22T23:53:25.480855"
+  },
+  "1750_97668": {
+    "name": "Quiz: Limits",
+    "course": "AP Calculus AB",
+    "due_at": "2025-09-13T05:00:00Z",
+    "first_seen": "2026-02-22T23:53:25.657632"
+  },
+  "1750_100025": {
+    "name": "Homework: Khan Academy Due 9/19",
+    "course": "AP Calculus AB",
+    "due_at": "2025-09-20T05:00:00Z",
+    "first_seen": "2026-02-22T23:53:25.886706"
+  },
+  "1750_100026": {
+    "name": "Homework: Textbook 2.2",
+    "course": "AP Calculus AB",
+    "due_at": "2025-09-25T05:00:00Z",
+    "first_seen": "2026-02-22T23:53:26.086965"
+  },
+  "1750_100103": {
+    "name": "Quiz: Limit Definition of the Derivative",
+    "course": "AP Calculus AB",
+    "due_at": "2025-09-27T05:00:00Z",
+    "first_seen": "2026-02-22T23:53:26.279114"
+  },
+  "1750_100287": {
+    "name": "Homework: Textbook 2.3",
+    "course": "AP Calculus AB",
+    "due_at": "2025-10-13T05:00:00Z",
+    "first_seen": "2026-02-22T23:53:26.452092"
+  },
+  "1750_100376": {
+    "name": "Homework: Khan Academy Due 10/15",
+    "course": "AP Calculus AB",
+    "due_at": "2025-10-16T05:00:00Z",
+    "first_seen": "2026-02-22T23:53:26.633786"
+  },
+  "1750_100377": {
+    "name": "Quiz: Power Rule",
+    "course": "AP Calculus AB",
+    "due_at": "2025-10-18T05:00:00Z",
+    "first_seen": "2026-02-22T23:53:26.813749"
+  },
+  "1750_100471": {
+    "name": "Homework: AP Classroom Due 10/22",
+    "course": "AP Calculus AB",
+    "due_at": "2025-10-23T05:00:00Z",
+    "first_seen": "2026-02-22T23:53:26.989231"
+  },
+  "1750_100470": {
+    "name": "Homework: Textbook 2.4",
+    "course": "AP Calculus AB",
+    "due_at": "2025-10-27T05:00:00Z",
+    "first_seen": "2026-02-22T23:53:27.162114"
+  },
+  "1750_100533": {
+    "name": "Homework: Khan Academy Due 10/29",
+    "course": "AP Calculus AB",
+    "due_at": "2025-10-30T05:00:00Z",
+    "first_seen": "2026-02-22T23:53:27.352368"
+  },
+  "1750_100534": {
+    "name": "Quiz: Product / Quotient Rule",
+    "course": "AP Calculus AB",
+    "due_at": "2025-11-01T05:00:00Z",
+    "first_seen": "2026-02-22T23:53:27.550553"
+  },
+  "1750_100535": {
+    "name": "Homework: AP Classroom Due 11/2",
+    "course": "AP Calculus AB",
+    "due_at": "2025-11-03T06:00:00Z",
+    "first_seen": "2026-02-22T23:53:27.751342"
+  },
+  "1750_100592": {
+    "name": "Homework: Khan Academy Due 11/2",
+    "course": "AP Calculus AB",
+    "due_at": "2025-11-03T06:00:00Z",
+    "first_seen": "2026-02-22T23:53:27.949008"
+  },
+  "1750_100626": {
+    "name": "Homework: Textbook 2.6",
+    "course": "AP Calculus AB",
+    "due_at": "2025-11-07T06:00:00Z",
+    "first_seen": "2026-02-22T23:53:28.139724"
+  },
+  "1750_100679": {
+    "name": "Homework: AP Classroom Due 11/9",
+    "course": "AP Calculus AB",
+    "due_at": "2025-11-10T06:00:00Z",
+    "first_seen": "2026-02-22T23:53:28.346668"
+  },
+  "1750_100678": {
+    "name": "Homework: Khan Academy Due 11/9",
+    "course": "AP Calculus AB",
+    "due_at": "2025-11-10T06:00:00Z",
+    "first_seen": "2026-02-22T23:53:28.537191"
+  },
+  "1750_100735": {
+    "name": "Homework: Textbook 3.1",
+    "course": "AP Calculus AB",
+    "due_at": "2025-11-14T06:00:00Z",
+    "first_seen": "2026-02-22T23:53:28.736319"
+  },
+  "1750_100758": {
+    "name": "Homework: AP Classroom Due 11/16",
+    "course": "AP Calculus AB",
+    "due_at": "2025-11-17T06:00:00Z",
+    "first_seen": "2026-02-22T23:53:28.935250"
+  },
+  "1750_100813": {
+    "name": "Quiz: Chain Rule / Implicit Differentiation",
+    "course": "AP Calculus AB",
+    "due_at": "2025-11-19T06:00:00Z",
+    "first_seen": "2026-02-22T23:53:29.116764"
+  },
+  "1750_100814": {
+    "name": "Homework: AP Classroom Due 11/21",
+    "course": "AP Calculus AB",
+    "due_at": "2025-11-24T06:00:00Z",
+    "first_seen": "2026-02-22T23:53:29.312116"
+  },
+  "1750_100866": {
+    "name": "Homework: Textbook 3.4",
+    "course": "AP Calculus AB",
+    "due_at": "2025-12-01T06:00:00Z",
+    "first_seen": "2026-02-22T23:53:29.520624"
+  },
+  "1750_100904": {
+    "name": "Homework: Textbook 3.4 Part 2",
+    "course": "AP Calculus AB",
+    "due_at": "2025-12-05T06:00:00Z",
+    "first_seen": "2026-02-22T23:53:29.713719"
+  },
+  "1750_100914": {
+    "name": "Homework: AP Classroom Due 12/7",
+    "course": "AP Calculus AB",
+    "due_at": "2025-12-08T06:00:00Z",
+    "first_seen": "2026-02-22T23:53:29.913033"
+  },
+  "1750_101119": {
+    "name": "Homework: AP Classroom Due 12/10",
+    "course": "AP Calculus AB",
+    "due_at": "2025-12-11T06:00:00Z",
+    "first_seen": "2026-02-22T23:53:30.103191"
+  },
+  "1750_101121": {
+    "name": "Homework: Khan Academy Due 12/12",
+    "course": "AP Calculus AB",
+    "due_at": "2025-12-13T06:00:00Z",
+    "first_seen": "2026-02-22T23:53:30.300085"
+  },
+  "1750_101120": {
+    "name": "Homework: Textbook 3.5",
+    "course": "AP Calculus AB",
+    "due_at": "2025-12-15T06:00:00Z",
+    "first_seen": "2026-02-22T23:53:30.511995"
+  },
+  "1750_101300": {
+    "name": "Homework: Khan Academy Due 12/15",
+    "course": "AP Calculus AB",
+    "due_at": "2025-12-16T06:00:00Z",
+    "first_seen": "2026-02-22T23:53:30.700563"
+  },
+  "1750_101303": {
+    "name": "Homework: AP Classroom Due 12/18",
+    "course": "AP Calculus AB",
+    "due_at": "2025-12-19T06:00:00Z",
+    "first_seen": "2026-02-22T23:53:30.889938"
+  },
+  "1750_101320": {
+    "name": "Quiz: Related Rates, Linear Approx, L'Hopitals",
+    "course": "AP Calculus AB",
+    "due_at": "2025-12-20T06:00:00Z",
+    "first_seen": "2026-02-22T23:53:31.088086"
+  },
+  "1750_101442": {
+    "name": "Homework: Khan Academy Due 1/11",
+    "course": "AP Calculus AB",
+    "due_at": "2026-01-12T06:00:00Z",
+    "first_seen": "2026-02-22T23:53:31.278867"
+  },
+  "1750_101470": {
+    "name": "Homework: AP Classroom Due 1/16",
+    "course": "AP Calculus AB",
+    "due_at": "2026-01-17T06:00:00Z",
+    "first_seen": "2026-02-22T23:53:31.463839"
+  },
+  "1750_101555": {
+    "name": "Homework: Khan Academy Due 1/19",
+    "course": "AP Calculus AB",
+    "due_at": "2026-01-20T06:00:00Z",
+    "first_seen": "2026-02-22T23:53:31.642498"
+  },
+  "1750_101556": {
+    "name": "Homework: Khan Academy Due 1/23",
+    "course": "AP Calculus AB",
+    "due_at": "2026-01-24T06:00:00Z",
+    "first_seen": "2026-02-22T23:53:31.833242"
+  },
+  "1750_101557": {
+    "name": "Homework: AP Classroom Due 1/27",
+    "course": "AP Calculus AB",
+    "due_at": "2026-01-28T06:00:00Z",
+    "first_seen": "2026-02-22T23:53:32.032824"
+  },
+  "1750_101469": {
+    "name": "Quiz Unit 5 Khan Academy",
+    "course": "AP Calculus AB",
+    "due_at": "2026-01-31T06:00:00Z",
+    "first_seen": "2026-02-22T23:53:32.224533"
+  },
+  "1750_101777": {
+    "name": "Homework: Textbook 5.2",
+    "course": "AP Calculus AB",
+    "due_at": "2026-02-21T06:00:00Z",
+    "first_seen": "2026-02-22T23:53:32.397382"
+  },
+  "1750_101778": {
+    "name": "Homework: Textbook 5.3 ",
+    "course": "AP Calculus AB",
+    "due_at": "2026-02-23T06:00:00Z",
+    "first_seen": "2026-02-22T23:53:32.578555"
+  },
+  "1750_101896": {
+    "name": "Homework: Khan Academy Due 2/24",
+    "course": "AP Calculus AB",
+    "due_at": "2026-02-25T06:00:00Z",
+    "first_seen": "2026-02-22T23:53:32.760193"
+  },
+  "1750_101897": {
+    "name": "Homework: AP Classroom Due 2/27",
+    "course": "AP Calculus AB",
+    "due_at": "2026-02-28T06:00:00Z",
+    "first_seen": "2026-02-22T23:53:32.935310"
+  },
+  "2006_100187": {
+    "name": "Participation 1 ",
+    "course": "Arts Survey",
+    "due_at": "2025-09-20T05:00:00Z",
+    "first_seen": "2026-02-22T23:53:33.671208"
+  },
+  "2006_100492": {
+    "name": "This I Believe Essay ",
+    "course": "Arts Survey",
+    "due_at": "2025-10-22T05:00:00Z",
+    "first_seen": "2026-02-22T23:53:33.861419"
+  },
+  "2006_100180": {
+    "name": "Alfred Assignment 1",
+    "course": "Arts Survey",
+    "due_at": "2026-02-21T06:00:00Z",
+    "first_seen": "2026-02-22T23:53:34.057588"
+  },
+  "2006_100186": {
+    "name": "Aspen Music Festival and School Reflection ",
+    "course": "Arts Survey",
+    "due_at": "2026-03-07T06:00:00Z",
+    "first_seen": "2026-02-22T23:53:34.253902"
+  },
+  "2006_100192": {
+    "name": "Participation 6",
+    "course": "Arts Survey",
+    "due_at": null,
+    "first_seen": "2026-02-22T23:53:34.454432"
+  },
+  "2035_101043": {
+    "name": "Upside-Down Drawing",
+    "course": "Arts Survey-T2",
+    "due_at": "2025-12-05T06:00:00Z",
+    "first_seen": "2026-02-22T23:53:35.632970"
+  },
+  "2035_101017": {
+    "name": "Hands Packet",
+    "course": "Arts Survey-T2",
+    "due_at": "2025-12-10T06:00:00Z",
+    "first_seen": "2026-02-22T23:53:35.839276"
+  },
+  "2035_101046": {
+    "name": "Zen Garden",
+    "course": "Arts Survey-T2",
+    "due_at": "2025-12-10T06:00:00Z",
+    "first_seen": "2026-02-22T23:53:36.028892"
+  },
+  "2035_101003": {
+    "name": "BRING A SHOE!!!",
+    "course": "Arts Survey-T2",
+    "due_at": "2025-12-13T06:00:00Z",
+    "first_seen": "2026-02-22T23:53:36.228085"
+  },
+  "2035_101041": {
+    "name": "Sphere Study",
+    "course": "Arts Survey-T2",
+    "due_at": "2025-12-13T06:00:00Z",
+    "first_seen": "2026-02-22T23:53:36.429249"
+  },
+  "2035_101045": {
+    "name": "Value Scale",
+    "course": "Arts Survey-T2",
+    "due_at": "2025-12-13T06:00:00Z",
+    "first_seen": "2026-02-22T23:53:36.627586"
+  },
+  "2035_101015": {
+    "name": "Final Shoe Portraits",
+    "course": "Arts Survey-T2",
+    "due_at": "2026-01-28T06:00:00Z",
+    "first_seen": "2026-02-22T23:53:36.836313"
+  },
+  "2035_101034": {
+    "name": "Reference Photo",
+    "course": "Arts Survey-T2",
+    "due_at": "2026-01-31T06:00:00Z",
+    "first_seen": "2026-02-22T23:53:37.029214"
+  },
+  "2035_101031": {
+    "name": "Power Animals",
+    "course": "Arts Survey-T2",
+    "due_at": "2026-03-07T06:00:00Z",
+    "first_seen": "2026-02-22T23:53:37.235140"
+  },
+  "2035_101004": {
+    "name": "BRING A SHOE!!!",
+    "course": "Arts Survey-T2",
+    "due_at": null,
+    "first_seen": "2026-02-22T23:53:37.419847"
+  },
+  "2035_101010": {
+    "name": "Course Prospectus ",
+    "course": "Arts Survey-T2",
+    "due_at": null,
+    "first_seen": "2026-02-22T23:53:37.610361"
+  },
+  "2035_101009": {
+    "name": "Course Prospectus ",
+    "course": "Arts Survey-T2",
+    "due_at": null,
+    "first_seen": "2026-02-22T23:53:37.791300"
+  },
+  "2035_101014": {
+    "name": "Final Shoe Portraits",
+    "course": "Arts Survey-T2",
+    "due_at": null,
+    "first_seen": "2026-02-22T23:53:37.983785"
+  },
+  "2035_101032": {
+    "name": "Power Animals",
+    "course": "Arts Survey-T2",
+    "due_at": null,
+    "first_seen": "2026-02-22T23:53:38.182340"
+  },
+  "2035_101033": {
+    "name": "Reference Photo",
+    "course": "Arts Survey-T2",
+    "due_at": null,
+    "first_seen": "2026-02-22T23:53:38.371573"
+  },
+  "2035_101037": {
+    "name": "Set of Postcards",
+    "course": "Arts Survey-T2",
+    "due_at": null,
+    "first_seen": "2026-02-22T23:53:38.546078"
+  },
+  "2035_101040": {
+    "name": "Sphere Study",
+    "course": "Arts Survey-T2",
+    "due_at": null,
+    "first_seen": "2026-02-22T23:53:38.729010"
+  },
+  "2035_101042": {
+    "name": "Upside-Down Drawing",
+    "course": "Arts Survey-T2",
+    "due_at": null,
+    "first_seen": "2026-02-22T23:53:38.908504"
+  },
+  "2035_101044": {
+    "name": "Value Scale",
+    "course": "Arts Survey-T2",
+    "due_at": null,
+    "first_seen": "2026-02-22T23:53:39.084128"
+  },
+  "1901_99906": {
+    "name": "Submit a Multi-Page PDF",
+    "course": "Biology",
+    "due_at": "2025-09-05T20:55:00Z",
+    "first_seen": "2026-02-22T23:53:41.492637"
+  },
+  "1901_99905": {
+    "name": "Bio Homework for Tuesday:  Bring Required Materials to Class and Read Course Expectations and Answer Questions",
+    "course": "Biology",
+    "due_at": "2025-09-09T17:15:00Z",
+    "first_seen": "2026-02-22T23:53:41.681809"
+  },
+  "1901_99894": {
+    "name": "Ammonia and What Plants Need and Notebook Check and Bring Your Art Kit To Class",
+    "course": "Biology",
+    "due_at": "2025-09-11T14:15:00Z",
+    "first_seen": "2026-02-22T23:53:41.876669"
+  },
+  "1901_99897": {
+    "name": "Notebook and Art Kit Check",
+    "course": "Biology",
+    "due_at": "2025-09-11T14:15:00Z",
+    "first_seen": "2026-02-22T23:53:42.072848"
+  },
+  "1901_99896": {
+    "name": "HW #2 Prepare for CFU on Prokaryotic vs. Eukaryotic Cells, Heterotrophic and Autotrophic.",
+    "course": "Biology",
+    "due_at": "2025-09-16T17:15:00Z",
+    "first_seen": "2026-02-22T23:53:42.272190"
+  },
+  "1901_99898": {
+    "name": "Aquaponics Poster ",
+    "course": "Biology",
+    "due_at": "2025-09-23T17:15:00Z",
+    "first_seen": "2026-02-22T23:53:42.462744"
+  },
+  "1901_99902": {
+    "name": "Aquaponics Test",
+    "course": "Biology",
+    "due_at": "2025-10-10T19:45:00Z",
+    "first_seen": "2026-02-22T23:53:42.671360"
+  },
+  "1901_99900": {
+    "name": "Aquaponics Test 2025",
+    "course": "Biology",
+    "due_at": "2025-10-10T20:55:00Z",
+    "first_seen": "2026-02-22T23:53:42.860877"
+  },
+  "1901_100393": {
+    "name": "Initial Research",
+    "course": "Biology",
+    "due_at": "2025-10-16T14:15:00Z",
+    "first_seen": "2026-02-22T23:53:43.057211"
+  },
+  "1901_100415": {
+    "name": "Devise three questions to ask our experts.",
+    "course": "Biology",
+    "due_at": "2025-10-18T04:45:00Z",
+    "first_seen": "2026-02-22T23:53:43.242603"
+  },
+  "1901_100448": {
+    "name": "Write Your Pond Proposal",
+    "course": "Biology",
+    "due_at": "2025-10-21T17:15:00Z",
+    "first_seen": "2026-02-22T23:53:43.442624"
+  },
+  "1901_100518": {
+    "name": "Pond Project Letter and Presentation",
+    "course": "Biology",
+    "due_at": "2025-10-24T19:35:00Z",
+    "first_seen": "2026-02-22T23:53:43.632201"
+  },
+  "1901_100566": {
+    "name": "Ryan Margo Letter Revision",
+    "course": "Biology",
+    "due_at": "2025-10-30T14:15:00Z",
+    "first_seen": "2026-02-22T23:53:43.811190"
+  },
+  "1901_100585": {
+    "name": "Nitrogen and Fritz Haber ",
+    "course": "Biology",
+    "due_at": "2025-10-31T19:45:00Z",
+    "first_seen": "2026-02-22T23:53:44.001990"
+  },
+  "1901_100680": {
+    "name": "Wednesday:  Feed Your Sourdough Babies!",
+    "course": "Biology",
+    "due_at": "2025-11-05T22:00:00Z",
+    "first_seen": "2026-02-22T23:53:44.201088"
+  },
+  "1901_100705": {
+    "name": "Plan for Class on Friday:  Bring Your Art Kits!",
+    "course": "Biology",
+    "due_at": "2025-11-07T20:45:00Z",
+    "first_seen": "2026-02-22T23:53:44.389852"
+  },
+  "1901_100682": {
+    "name": "Friday:  Feed Your Sourdough Babies!  ",
+    "course": "Biology",
+    "due_at": "2025-11-07T21:55:00Z",
+    "first_seen": "2026-02-22T23:53:44.563619"
+  },
+  "1901_100683": {
+    "name": "Saturday:  Feed Your Sourdough Babies!  ",
+    "course": "Biology",
+    "due_at": "2025-11-09T00:00:00Z",
+    "first_seen": "2026-02-22T23:53:44.745047"
+  },
+  "1901_100684": {
+    "name": "Sunday:  Feed Your Sourdough Babies!   ",
+    "course": "Biology",
+    "due_at": "2025-11-10T00:00:00Z",
+    "first_seen": "2026-02-22T23:53:44.923637"
+  },
+  "1901_100704": {
+    "name": "Photosynthesis and Cellular Respiration Poster",
+    "course": "Biology",
+    "due_at": "2025-11-11T18:15:00Z",
+    "first_seen": "2026-02-22T23:53:45.098331"
+  },
+  "1901_100749": {
+    "name": "Sourdough Pancakes!  My House!  Tuesday!",
+    "course": "Biology",
+    "due_at": "2025-11-11T18:15:00Z",
+    "first_seen": "2026-02-22T23:53:45.271289"
+  },
+  "1901_100788": {
+    "name": "Cell Model and Legend",
+    "course": "Biology",
+    "due_at": "2025-12-03T15:15:00Z",
+    "first_seen": "2026-02-22T23:53:45.470335"
+  },
+  "1901_101078": {
+    "name": "Organelle Test ",
+    "course": "Biology",
+    "due_at": "2025-12-05T15:15:00Z",
+    "first_seen": "2026-02-22T23:53:45.667746"
+  },
+  "1901_101118": {
+    "name": "Cell Organelles Test 2025 ",
+    "course": "Biology",
+    "due_at": "2025-12-05T21:55:00Z",
+    "first_seen": "2026-02-22T23:53:45.879171"
+  },
+  "1901_101290": {
+    "name": "Cell Organlle Project and Test Reflection",
+    "course": "Biology",
+    "due_at": "2025-12-16T18:15:00Z",
+    "first_seen": "2026-02-22T23:53:46.072841"
+  },
+  "1901_101342": {
+    "name": "Electron Shel, Lewis Dot Model Practice",
+    "course": "Biology",
+    "due_at": "2025-12-19T20:45:00Z",
+    "first_seen": "2026-02-22T23:53:46.272008"
+  },
+  "1901_101428": {
+    "name": "Electron Shell, Lewis Dot, Covalent and Ionic Bond Quiz",
+    "course": "Biology",
+    "due_at": "2026-01-13T16:20:00Z",
+    "first_seen": "2026-02-22T23:53:46.458970"
+  },
+  "1901_101705": {
+    "name": "Blood Sugar Experimental Design",
+    "course": "Biology",
+    "due_at": "2026-01-29T17:30:00Z",
+    "first_seen": "2026-02-22T23:53:46.654988"
+  },
+  "1901_101749": {
+    "name": "Blood Sugar Experiment Write-Up AND be ready to repeat your experiment again",
+    "course": "Biology",
+    "due_at": "2026-01-30T21:10:00Z",
+    "first_seen": "2026-02-22T23:53:46.854707"
+  },
+  "1901_101835": {
+    "name": "Background Information and Research:  Blood Glucose Experiment",
+    "course": "Biology",
+    "due_at": "2026-02-19T17:55:00Z",
+    "first_seen": "2026-02-22T23:53:47.043383"
+  },
+  "1901_101870": {
+    "name": "Create a Title and Write The Introduction to your Blood Glucose Write-Up",
+    "course": "Biology",
+    "due_at": "2026-02-20T21:10:00Z",
+    "first_seen": "2026-02-22T23:53:47.228883"
+  },
+  "1901_101884": {
+    "name": "Add your results and discussion sections to your blood glucose paper",
+    "course": "Biology",
+    "due_at": "2026-02-24T15:15:00Z",
+    "first_seen": "2026-02-22T23:53:47.417873"
+  },
+  "1797_99929": {
+    "name": "10 School Tips for Success",
+    "course": "Seminar for Academic Success",
+    "due_at": null,
+    "first_seen": "2026-02-22T23:53:48.041494"
+  },
+  "1985_99951": {
+    "name": "el jardin - Quizlet",
+    "course": "Spanish II",
+    "due_at": "2025-09-10T15:00:00Z",
+    "first_seen": "2026-02-22T23:53:49.965789"
+  },
+  "1985_99990": {
+    "name": "weekly quiz ",
+    "course": "Spanish II",
+    "due_at": "2025-09-12T14:00:00Z",
+    "first_seen": "2026-02-22T23:53:50.157306"
+  },
+  "1985_100031": {
+    "name": "stem-changing verbs - Quizlet",
+    "course": "Spanish II",
+    "due_at": "2025-09-15T20:30:00Z",
+    "first_seen": "2026-02-22T23:53:50.354050"
+  },
+  "1985_100033": {
+    "name": "quiz - stem-changing infinitives",
+    "course": "Spanish II",
+    "due_at": "2025-09-17T17:30:00Z",
+    "first_seen": "2026-02-22T23:53:50.539667"
+  },
+  "1985_100224": {
+    "name": "weekly quiz 9/25 - 9/26",
+    "course": "Spanish II",
+    "due_at": "2025-09-26T05:00:00Z",
+    "first_seen": "2026-02-22T23:53:50.717485"
+  },
+  "1985_100225": {
+    "name": "stem-changing verbs Quizlet",
+    "course": "Spanish II",
+    "due_at": "2025-09-26T15:30:00Z",
+    "first_seen": "2026-02-22T23:53:50.908601"
+  },
+  "1985_100371": {
+    "name": "exam - stem-changing verbs",
+    "course": "Spanish II",
+    "due_at": "2025-10-17T14:00:00Z",
+    "first_seen": "2026-02-22T23:53:51.107499"
+  },
+  "1985_100584": {
+    "name": "weekly quiz - #3",
+    "course": "Spanish II",
+    "due_at": "2025-10-31T14:30:00Z",
+    "first_seen": "2026-02-22T23:53:51.297808"
+  },
+  "1985_100699": {
+    "name": "recording #1 - dictation",
+    "course": "Spanish II",
+    "due_at": "2025-11-07T16:30:00Z",
+    "first_seen": "2026-02-22T23:53:51.470522"
+  },
+  "1985_100700": {
+    "name": "recording #2 - story from memory",
+    "course": "Spanish II",
+    "due_at": "2025-11-10T16:30:00Z",
+    "first_seen": "2026-02-22T23:53:51.652043"
+  },
+  "1985_100809": {
+    "name": "weekly quiz #4",
+    "course": "Spanish II",
+    "due_at": "2025-11-17T15:00:00Z",
+    "first_seen": "2026-02-22T23:53:51.834458"
+  },
+  "1985_100810": {
+    "name": "weekly quiz #5",
+    "course": "Spanish II",
+    "due_at": "2025-11-17T15:00:00Z",
+    "first_seen": "2026-02-22T23:53:52.012168"
+  },
+  "1985_100873": {
+    "name": "Quizlet - Maria y Las Multas",
+    "course": "Spanish II",
+    "due_at": "2025-12-03T18:00:00Z",
+    "first_seen": "2026-02-22T23:53:52.185113"
+  },
+  "1985_101277": {
+    "name": "oral quiz - el trafico",
+    "course": "Spanish II",
+    "due_at": "2025-12-12T15:30:00Z",
+    "first_seen": "2026-02-22T23:53:52.381070"
+  },
+  "1985_101437": {
+    "name": "Quizlet - preterite of ir/ser",
+    "course": "Spanish II",
+    "due_at": "2026-01-08T15:30:00Z",
+    "first_seen": "2026-02-22T23:53:52.581057"
+  },
+  "1985_101477": {
+    "name": "Quizlet - preterite -ar verbs",
+    "course": "Spanish II",
+    "due_at": "2026-01-12T21:00:00Z",
+    "first_seen": "2026-02-22T23:53:52.772076"
+  },
+  "1985_101495": {
+    "name": "Vocabulary quiz - los primeros auxilios",
+    "course": "Spanish II",
+    "due_at": "2026-01-23T16:30:00Z",
+    "first_seen": "2026-02-22T23:53:52.979224"
+  },
+  "1985_101747": {
+    "name": "Quiz - regular -ar/ser/ir",
+    "course": "Spanish II",
+    "due_at": "2026-01-30T16:30:00Z",
+    "first_seen": "2026-02-22T23:53:53.178497"
+  },
+  "1985_101836": {
+    "name": "Quizlet - irregular verbs",
+    "course": "Spanish II",
+    "due_at": "2026-02-17T22:00:00Z",
+    "first_seen": "2026-02-22T23:53:53.377598"
+  },
+  "1948_98462": {
+    "name": "Seterra Pre-assessment (to be done in class on Monday, September 2nd)",
+    "course": "World Geography",
+    "due_at": "2025-09-04T05:00:00Z",
+    "first_seen": "2026-02-22T23:53:57.040309"
+  },
+  "1948_98417": {
+    "name": "Read bell hooks, \"Critical Thinking\" article and be prepared to discuss in class  ",
+    "course": "World Geography",
+    "due_at": "2025-09-08T16:45:00Z",
+    "first_seen": "2026-02-22T23:53:57.236525"
+  },
+  "1948_98461": {
+    "name": "September 11th Interview questions - Thoroughly read the instructions ",
+    "course": "World Geography",
+    "due_at": "2025-09-10T15:00:00Z",
+    "first_seen": "2026-02-22T23:53:57.420792"
+  },
+  "1948_98318": {
+    "name": "Invisibilia Pod Cast: Reality - NOTE THAT HOMEWORK HAS TWO PARTS!",
+    "course": "World Geography",
+    "due_at": "2025-09-11T15:00:00Z",
+    "first_seen": "2026-02-22T23:53:57.611175"
+  },
+  "1948_98407": {
+    "name": "Read \" Why Facts Don't Change Our Minds,\" and respond in the text box provided (as well as annotate for discussion)",
+    "course": "World Geography",
+    "due_at": "2025-09-15T16:45:00Z",
+    "first_seen": "2026-02-22T23:53:57.788613"
+  },
+  "1948_98564": {
+    "name": "World Geography Questionnaire - Part One",
+    "course": "World Geography",
+    "due_at": "2025-09-17T16:15:00Z",
+    "first_seen": "2026-02-22T23:53:57.978910"
+  },
+  "1948_100070": {
+    "name": "World Geography Questionnaire - Part Two",
+    "course": "World Geography",
+    "due_at": "2025-09-18T19:45:00Z",
+    "first_seen": "2026-02-22T23:53:58.179185"
+  },
+  "1948_98415": {
+    "name": "Read and take notes on the enduring legacy of 911 - 20 years out article.",
+    "course": "World Geography",
+    "due_at": "2025-09-19T23:00:00Z",
+    "first_seen": "2026-02-22T23:53:58.367589"
+  },
+  "1948_98367": {
+    "name": "Please read this short letter from seven Guantanamo detainees- NOTE: It's from 2021, when 40 prisoners wer still remaining ",
+    "course": "World Geography",
+    "due_at": "2025-09-24T16:15:00Z",
+    "first_seen": "2026-02-22T23:53:58.544985"
+  },
+  "1948_98424": {
+    "name": "Read, \"Only Connect,\" by William Cronin and provide annotated notes for credit.",
+    "course": "World Geography",
+    "due_at": "2025-09-25T19:45:00Z",
+    "first_seen": "2026-02-22T23:53:58.726575"
+  },
+  "1948_98405": {
+    "name": "Radio Lab Podcast: \"Playing God\" and take notes",
+    "course": "World Geography",
+    "due_at": "2025-10-15T16:00:00Z",
+    "first_seen": "2026-02-22T23:53:58.905771"
+  },
+  "1948_98493": {
+    "name": "Study for the Ethics/Guantamano quiz for Thursday, October 16th - ",
+    "course": "World Geography",
+    "due_at": "2025-10-16T15:00:00Z",
+    "first_seen": "2026-02-22T23:53:59.080810"
+  },
+  "1948_98372": {
+    "name": "Please read, \"The Ones Who Walk Away from Omelas,\" by Ursula Le Guin",
+    "course": "World Geography",
+    "due_at": "2025-10-21T04:45:00Z",
+    "first_seen": "2026-02-22T23:53:59.253607"
+  },
+  "1948_98211": {
+    "name": "Homework 1) Read, Kohlberg\u2019s Stages of Moral Development, and 2) review morals and ethic videos and take notes in your notebook. ",
+    "course": "World Geography",
+    "due_at": "2025-10-22T16:10:00Z",
+    "first_seen": "2026-02-22T23:53:59.442554"
+  },
+  "1948_98360": {
+    "name": "Please read Six Great Ideas by Mortimer Alder, turn in annotations for credit",
+    "course": "World Geography",
+    "due_at": "2025-10-30T19:45:00Z",
+    "first_seen": "2026-02-22T23:53:59.638852"
+  },
+  "1948_100636": {
+    "name": "Outside Interview: record responses in your notebook",
+    "course": "World Geography",
+    "due_at": "2025-11-05T16:25:00Z",
+    "first_seen": "2026-02-22T23:53:59.837106"
+  },
+  "1948_98383": {
+    "name": "Please watch this linked video, read the accompanying text on the page, and take notes in your notebook",
+    "course": "World Geography",
+    "due_at": "2025-11-05T17:40:00Z",
+    "first_seen": "2026-02-22T23:54:00.027534"
+  },
+  "1948_98520": {
+    "name": "Values and actions list in your journal",
+    "course": "World Geography",
+    "due_at": "2025-11-05T17:40:00Z",
+    "first_seen": "2026-02-22T23:54:00.241384"
+  },
+  "1948_100757": {
+    "name": "Please watch Snowden video and take notes",
+    "course": "World Geography",
+    "due_at": "2025-11-12T17:10:00Z",
+    "first_seen": "2026-02-22T23:54:00.439079"
+  },
+  "1948_100767": {
+    "name": "Debate on Edward Snowden and Text box submission",
+    "course": "World Geography",
+    "due_at": "2025-11-13T20:45:00Z",
+    "first_seen": "2026-02-22T23:54:00.640372"
+  },
+  "1948_100804": {
+    "name": "Quiz Two - Thursday, November 20th",
+    "course": "World Geography",
+    "due_at": "2025-11-20T18:15:00Z",
+    "first_seen": "2026-02-22T23:54:00.842031"
+  },
+  "1948_101076": {
+    "name": "Key concept homework - Note there are two parts",
+    "course": "World Geography",
+    "due_at": "2025-12-03T17:15:00Z",
+    "first_seen": "2026-02-22T23:54:01.037907"
+  },
+  "1948_101086": {
+    "name": "Key concept HW part Two",
+    "course": "World Geography",
+    "due_at": "2025-12-04T20:45:00Z",
+    "first_seen": "2026-02-22T23:54:01.246624"
+  },
+  "1948_98373": {
+    "name": "Please read, \"Violence Power and Bureaucracy,\" by Hannah Arendt and annotate for credit",
+    "course": "World Geography",
+    "due_at": "2025-12-11T20:45:00Z",
+    "first_seen": "2026-02-22T23:54:01.440515"
+  },
+  "1948_101616": {
+    "name": "Fishbowl Discussion",
+    "course": "World Geography",
+    "due_at": "2025-12-19T06:00:00Z",
+    "first_seen": "2026-02-22T23:54:01.639031"
+  },
+  "1948_101451": {
+    "name": "Listen to The Daily Podcast on Venezuela and take notes in your notebook",
+    "course": "World Geography",
+    "due_at": "2026-01-13T21:10:00Z",
+    "first_seen": "2026-02-22T23:54:01.825205"
+  },
+  "1948_101507": {
+    "name": "Listen to the Stay Tuned Podcast, take notes and respond in the text box provided",
+    "course": "World Geography",
+    "due_at": "2026-01-16T15:15:00Z",
+    "first_seen": "2026-02-22T23:54:02.027674"
+  },
+  "1948_101538": {
+    "name": "Quiz on Venezuela: Study Guide",
+    "course": "World Geography",
+    "due_at": "2026-01-19T17:55:00Z",
+    "first_seen": "2026-02-22T23:54:02.224241"
+  },
+  "1948_101579": {
+    "name": "Read up on the present situation of Nicol\u00e1s Maduro and take notes in your notebook",
+    "course": "World Geography",
+    "due_at": "2026-01-20T21:10:00Z",
+    "first_seen": "2026-02-22T23:54:02.412747"
+  },
+  "1948_101601": {
+    "name": "Geopolitics and Venezuela",
+    "course": "World Geography",
+    "due_at": "2026-01-24T03:15:00Z",
+    "first_seen": "2026-02-22T23:54:02.598031"
+  },
+  "1948_101717": {
+    "name": "North Africa and Middle East ",
+    "course": "World Geography",
+    "due_at": "2026-01-30T15:15:00Z",
+    "first_seen": "2026-02-22T23:54:02.786486"
+  },
+  "1948_101655": {
+    "name": "Study for Arab Spring Vocab. quiz on Tuesday February 17th",
+    "course": "World Geography",
+    "due_at": "2026-02-20T15:15:00Z",
+    "first_seen": "2026-02-22T23:54:02.971210"
+  },
+  "1948_98192": {
+    "name": "Class Questionnaire: Google form - ",
+    "course": "World Geography",
+    "due_at": null,
+    "first_seen": "2026-02-22T23:54:03.153011"
+  },
+  "1948_100221": {
+    "name": "Resources for Unit One that we viewed in class",
+    "course": "World Geography",
+    "due_at": null,
+    "first_seen": "2026-02-22T23:54:03.338884"
+  },
+  "1859_99203": {
+    "name": "Summer Reading Assignment: Manticore Mixtape",
+    "course": "World Literature",
+    "due_at": "2025-09-05T05:00:00Z",
+    "first_seen": "2026-02-22T23:54:05.546427"
+  },
+  "1859_100089": {
+    "name": "Summer Reading_summary & short-constructed response",
+    "course": "World Literature",
+    "due_at": "2025-09-09T05:00:00Z",
+    "first_seen": "2026-02-22T23:54:05.742678"
+  },
+  "1859_99931": {
+    "name": "Article of the Week #1 (response due Thursday, 9/11 beginning of class)",
+    "course": "World Literature",
+    "due_at": "2025-09-11T21:00:00Z",
+    "first_seen": "2026-02-22T23:54:05.921452"
+  },
+  "1859_99992": {
+    "name": "Learning from Chimpanzees Quizito",
+    "course": "World Literature",
+    "due_at": "2025-09-11T21:00:00Z",
+    "first_seen": "2026-02-22T23:54:06.112363"
+  },
+  "1859_99991": {
+    "name": "Learning from Chimpanzees",
+    "course": "World Literature",
+    "due_at": "2025-09-16T05:30:00Z",
+    "first_seen": "2026-02-22T23:54:06.312488"
+  },
+  "1859_100027": {
+    "name": "Article of the Week #2 (personal curriculum) -- due 9/18",
+    "course": "World Literature",
+    "due_at": "2025-09-19T05:00:00Z",
+    "first_seen": "2026-02-22T23:54:06.501102"
+  },
+  "1859_100434": {
+    "name": "Light and Sound Pollution Presentations",
+    "course": "World Literature",
+    "due_at": "2025-09-23T05:00:00Z",
+    "first_seen": "2026-02-22T23:54:06.675070"
+  },
+  "1859_100109": {
+    "name": "Article of the Week #3 - brain health",
+    "course": "World Literature",
+    "due_at": "2025-09-26T05:00:00Z",
+    "first_seen": "2026-02-22T23:54:06.855539"
+  },
+  "1859_100387": {
+    "name": "Article of the Week #4 -- They're Free!",
+    "course": "World Literature",
+    "due_at": "2025-10-17T05:00:00Z",
+    "first_seen": "2026-02-22T23:54:07.039099"
+  },
+  "1859_100501": {
+    "name": "Article of the Week #5 -- your choice!",
+    "course": "World Literature",
+    "due_at": "2025-10-24T05:00:00Z",
+    "first_seen": "2026-02-22T23:54:07.213807"
+  },
+  "1859_100769": {
+    "name": "What We Fed to the Manticore -- Theme Analysis Essay [with reflection and reassessment opportunity & student exemplars]",
+    "course": "World Literature",
+    "due_at": "2025-10-24T17:05:00Z",
+    "first_seen": "2026-02-22T23:54:07.405746"
+  },
+  "1859_100545": {
+    "name": "Article of the Week #6 (chocolate shortage) -- due 10/30",
+    "course": "World Literature",
+    "due_at": "2025-10-30T21:00:00Z",
+    "first_seen": "2026-02-22T23:54:07.602092"
+  },
+  "1859_100550": {
+    "name": "Fact File & Notes Page: Overview China's Cultural Revolution",
+    "course": "World Literature",
+    "due_at": "2025-10-31T05:30:00Z",
+    "first_seen": "2026-02-22T23:54:07.800635"
+  },
+  "1859_100586": {
+    "name": "10/30 \u201cThe Wounded\u201d By Lu Xinhua",
+    "course": "World Literature",
+    "due_at": "2025-11-03T17:30:00Z",
+    "first_seen": "2026-02-22T23:54:07.990817"
+  },
+  "1859_100690": {
+    "name": "Part One Quizito: pp.3-41 in BatLCS",
+    "course": "World Literature",
+    "due_at": "2025-11-06T19:00:00Z",
+    "first_seen": "2026-02-22T23:54:08.197519"
+  },
+  "1859_100645": {
+    "name": "Part One: Balzac and the Little Chinese Seamstress; pp. 3-41",
+    "course": "World Literature",
+    "due_at": "2025-11-06T22:00:00Z",
+    "first_seen": "2026-02-22T23:54:08.386697"
+  },
+  "1859_100693": {
+    "name": "Part Two: Balzac and the Little Chinese Seamstress; pp. 45-105",
+    "course": "World Literature",
+    "due_at": "2025-11-12T06:00:00Z",
+    "first_seen": "2026-02-22T23:54:08.586440"
+  },
+  "1859_100696": {
+    "name": "Part Two Quizito: pp. 45-105 in BatLCS",
+    "course": "World Literature",
+    "due_at": "2025-11-12T22:00:00Z",
+    "first_seen": "2026-02-22T23:54:08.782021"
+  },
+  "1859_100694": {
+    "name": "Part Three: Balzac and the Little Chinese Seamstress; pp. 109-134",
+    "course": "World Literature",
+    "due_at": "2025-11-14T06:00:00Z",
+    "first_seen": "2026-02-22T23:54:08.989754"
+  },
+  "1859_100806": {
+    "name": "Part Four Quizito: pp. 135-184",
+    "course": "World Literature",
+    "due_at": "2025-11-17T19:00:00Z",
+    "first_seen": "2026-02-22T23:54:09.174675"
+  },
+  "1859_100695": {
+    "name": "Part Four: Balzac and the Little Chinese Seamstress; pp. 135-184",
+    "course": "World Literature",
+    "due_at": "2025-11-18T06:00:00Z",
+    "first_seen": "2026-02-22T23:54:09.366928"
+  },
+  "1859_100832": {
+    "name": "Final Project: Balzac and the Little Chinese Seamstress",
+    "course": "World Literature",
+    "due_at": "2025-11-21T06:00:00Z",
+    "first_seen": "2026-02-22T23:54:09.559692"
+  },
+  "1859_101073": {
+    "name": "Article of the Week #7 (your choice)",
+    "course": "World Literature",
+    "due_at": "2025-12-04T22:00:00Z",
+    "first_seen": "2026-02-22T23:54:09.760061"
+  },
+  "1859_101310": {
+    "name": "Themed Poetry Collection (slides and expectations)",
+    "course": "World Literature",
+    "due_at": "2025-12-18T22:00:00Z",
+    "first_seen": "2026-02-22T23:54:09.946551"
+  },
+  "1859_101349": {
+    "name": "Fishbowl Discussion (World Lit + World Geo)",
+    "course": "World Literature",
+    "due_at": "2025-12-20T06:00:00Z",
+    "first_seen": "2026-02-22T23:54:10.142723"
+  },
+  "1859_101444": {
+    "name": "\"The Paper Menagerie\" reading comprehension quiz",
+    "course": "World Literature",
+    "due_at": "2026-01-08T18:00:00Z",
+    "first_seen": "2026-02-22T23:54:10.341695"
+  },
+  "1859_101433": {
+    "name": "Select an independent reading book within the genre of Magical Realism by today",
+    "course": "World Literature",
+    "due_at": "2026-01-12T15:00:00Z",
+    "first_seen": "2026-02-22T23:54:10.530897"
+  },
+  "1859_101570": {
+    "name": "R\u00edos' The Sociology of Possibility (main point + evidence + question)",
+    "course": "World Literature",
+    "due_at": "2026-01-17T06:00:00Z",
+    "first_seen": "2026-02-22T23:54:10.716016"
+  },
+  "1859_101571": {
+    "name": "Gallery Walk Artifact Analysis",
+    "course": "World Literature",
+    "due_at": "2026-01-20T06:00:00Z",
+    "first_seen": "2026-02-22T23:54:10.904656"
+  },
+  "1859_101587": {
+    "name": "\"I Sell My Dreams\" reading comprehension quiz",
+    "course": "World Literature",
+    "due_at": "2026-01-21T06:00:00Z",
+    "first_seen": "2026-02-22T23:54:11.088560"
+  },
+  "1859_101573": {
+    "name": "In-Class Synthesis Writing",
+    "course": "World Literature",
+    "due_at": "2026-01-21T06:00:00Z",
+    "first_seen": "2026-02-22T23:54:11.268629"
+  },
+  "1859_101750": {
+    "name": "\"And of Clay Are We Created\" reading comprehension quiz",
+    "course": "World Literature",
+    "due_at": "2026-01-22T22:00:00Z",
+    "first_seen": "2026-02-22T23:54:11.466628"
+  },
+  "1859_101574": {
+    "name": "Dream Journal & Scene",
+    "course": "World Literature",
+    "due_at": "2026-01-30T06:00:00Z",
+    "first_seen": "2026-02-22T23:54:11.662344"
+  },
+  "1859_101809": {
+    "name": "2/16 Homework (dialogue & interior monologue)",
+    "course": "World Literature",
+    "due_at": "2026-02-18T06:00:00Z",
+    "first_seen": "2026-02-22T23:54:11.840855"
+  },
+  "1859_101857": {
+    "name": "2/19 or 2/20 Homework (exposition & description)",
+    "course": "World Literature",
+    "due_at": "2026-02-20T06:00:00Z",
+    "first_seen": "2026-02-22T23:54:12.031453"
+  },
+  "1859_101622": {
+    "name": "Magical Realism Book Talk",
+    "course": "World Literature",
+    "due_at": "2026-02-20T06:00:00Z",
+    "first_seen": "2026-02-22T23:54:12.231675"
+  },
+  "1859_101623": {
+    "name": "Magical Realism Short Story Creation",
+    "course": "World Literature",
+    "due_at": "2026-02-25T06:00:00Z",
+    "first_seen": "2026-02-22T23:54:12.420719"
+  },
+  "1859_101077": {
+    "name": "Researching \"Deaf Republic\"",
+    "course": "World Literature",
+    "due_at": null,
+    "first_seen": "2026-02-22T23:54:12.594238"
+  }
+}
