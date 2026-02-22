@@ -23,9 +23,9 @@ from datetime import datetime
 #  (set these as GitHub Actions secrets)
 # ─────────────────────────────────────────────
 
-CANVAS_URL        = os.environ["CANVAS_URL"]
-CANVAS_API_TOKEN  = os.environ["CANVAS_API_TOKEN"]
-NTFY_TOPIC        = os.environ["NTFY_TOPIC"]
+CANVAS_URL        = os.environ["CANVAS_URL"].strip()
+CANVAS_API_TOKEN  = os.environ["CANVAS_API_TOKEN"].strip()
+NTFY_TOPIC        = os.environ["NTFY_TOPIC"].strip()
 SEEN_GRADES_FILE      = "seen_grades.json"
 SEEN_ASSIGNMENTS_FILE = "seen_assignments.json"
 
