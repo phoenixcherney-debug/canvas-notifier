@@ -1130,8 +1130,9 @@
   "1859_101622": {
     "name": "Magical Realism Book Talk",
     "course": "World Literature",
-    "due_at": "2026-02-20T06:00:00Z",
-    "first_seen": "2026-02-22T23:54:12.231675"
+    "due_at": "2026-02-23T19:00:00Z",
+    "first_seen": "2026-02-22T23:54:12.231675",
+    "due_changed_at": "2026-02-23T21:31:09.663669"
   },
   "1859_101623": {
     "name": "Magical Realism Short Story Creation",
