@@ -1136,13 +1136,20 @@
   "1859_101623": {
     "name": "Magical Realism Short Story Creation",
     "course": "World Literature",
-    "due_at": "2026-02-25T06:00:00Z",
-    "first_seen": "2026-02-22T23:54:12.420719"
+    "due_at": "2026-02-24T15:00:00Z",
+    "first_seen": "2026-02-22T23:54:12.420719",
+    "due_changed_at": "2026-02-23T18:15:34.994956"
   },
   "1859_101077": {
     "name": "Researching \"Deaf Republic\"",
     "course": "World Literature",
     "due_at": null,
     "first_seen": "2026-02-22T23:54:12.594238"
+  },
+  "1750_101907": {
+    "name": "Homework: Khan Academy Due 3/1",
+    "course": "AP Calculus AB",
+    "due_at": "2026-03-02T06:00:00Z",
+    "first_seen": "2026-02-23T18:15:21.990885"
   }
 }
