@@ -1137,9 +1137,9 @@
   "1859_101623": {
     "name": "Magical Realism Short Story Creation",
     "course": "World Literature",
-    "due_at": "2026-02-24T15:00:00Z",
+    "due_at": "2026-02-24T19:00:00Z",
     "first_seen": "2026-02-22T23:54:12.420719",
-    "due_changed_at": "2026-02-23T18:15:34.994956"
+    "due_changed_at": "2026-02-24T23:05:57.470667"
   },
   "1859_101077": {
     "name": "Researching \"Deaf Republic\"",
@@ -1164,5 +1164,11 @@
     "course": "World Geography",
     "due_at": "2026-02-24T20:00:00Z",
     "first_seen": "2026-02-23T23:48:32.207883"
+  },
+  "1859_101926": {
+    "name": "FINAL: Magical Realism Short Story & Reflection",
+    "course": "World Literature",
+    "due_at": "2026-02-28T06:59:59Z",
+    "first_seen": "2026-02-24T23:05:57.637166"
   }
 }
