@@ -3,7 +3,7 @@ name: Canvas Grade Notifier
 on:
   schedule:
     # Runs every hour at the top of the hour (UTC)
-    - cron: "0 * * * *"
+    - cron: "*/10 * * * *"
   workflow_dispatch:
     # Allows you to run it manually from GitHub's website at any time
 
