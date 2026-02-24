@@ -23,9 +23,9 @@ from datetime import datetime
 #  (set these as GitHub Actions secrets)
 # ─────────────────────────────────────────────
 
-CANVAS_URL        = os.environ["CANVAS_URL"].strip()
-CANVAS_API_TOKEN  = os.environ["CANVAS_API_TOKEN"].strip()
-NTFY_TOPIC        = os.environ["NTFY_TOPIC"].strip()
+CANVAS_URL            = os.environ["CANVAS_URL"].strip()
+CANVAS_API_TOKEN      = os.environ["CANVAS_API_TOKEN"].strip()
+NTFY_TOPIC            = os.environ["NTFY_TOPIC"].strip()
 SEEN_GRADES_FILE      = "seen_grades.json"
 SEEN_ASSIGNMENTS_FILE = "seen_assignments.json"
 
@@ -55,12 +55,11 @@ def send_notification(title, message, priority="default"):
     try:
         response = requests.post(
             f"https://ntfy.sh/{NTFY_TOPIC}",
-            json={
-                "topic": NTFY_TOPIC,
-                "title": title,
-                "message": message,
-                "priority": priority,
-                "tags": ["mortar_board"],
+            data=message.encode("utf-8"),
+            headers={
+                "Title": title,
+                "Priority": priority,
+                "Tags": "mortar_board",
             }
         )
         return response.status_code == 200
