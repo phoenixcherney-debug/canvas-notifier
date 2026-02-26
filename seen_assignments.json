@@ -1174,8 +1174,9 @@
   "1901_101992": {
     "name": "Carbohydrates, Lipids, and Conversions Test",
     "course": "Biology",
-    "due_at": null,
-    "first_seen": "2026-02-26T15:07:11.417192"
+    "due_at": "2026-03-03T16:20:00Z",
+    "first_seen": "2026-02-26T15:07:11.417192",
+    "due_changed_at": "2026-02-26T18:05:53.999908"
   },
   "1901_101991": {
     "name": "Watch Last Episode of \"You Are What You Eat\",",
@@ -1192,7 +1193,8 @@
   "1901_101989": {
     "name": "Your Philosophy on Food",
     "course": "Biology",
-    "due_at": null,
-    "first_seen": "2026-02-26T15:07:11.812475"
+    "due_at": "2026-02-27T21:10:00Z",
+    "first_seen": "2026-02-26T15:07:11.812475",
+    "due_changed_at": "2026-02-26T18:05:53.874266"
   }
 }
