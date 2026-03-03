@@ -1221,5 +1221,17 @@
     "course": "World Geography",
     "due_at": "2026-03-03T20:05:00Z",
     "first_seen": "2026-03-03T05:07:08.173386"
+  },
+  "1750_102059": {
+    "name": "Homework: Khan Academy Due 3/6",
+    "course": "AP Calculus AB",
+    "due_at": "2026-03-07T06:00:00Z",
+    "first_seen": "2026-03-03T20:55:30.778843"
+  },
+  "1750_102060": {
+    "name": "Homework: Khan Academy due 3/8",
+    "course": "AP Calculus AB",
+    "due_at": "2026-03-09T05:00:00Z",
+    "first_seen": "2026-03-03T20:55:30.891387"
   }
 }
