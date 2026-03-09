@@ -1239,5 +1239,17 @@
     "course": "Biology",
     "due_at": "2026-03-06T21:10:00Z",
     "first_seen": "2026-03-05T19:02:34.019103"
+  },
+  "1750_102109": {
+    "name": "Homework: Khan Academy Due 3/13",
+    "course": "AP Calculus AB",
+    "due_at": "2026-03-14T05:00:00Z",
+    "first_seen": "2026-03-09T05:13:18.671339"
+  },
+  "1750_102108": {
+    "name": "Super Quiz: Antiderivatives/Riemann Sums/FTC",
+    "course": "AP Calculus AB",
+    "due_at": "2026-03-14T05:00:00Z",
+    "first_seen": "2026-03-09T05:13:18.809427"
   }
 }
