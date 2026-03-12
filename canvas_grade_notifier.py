@@ -242,34 +242,7 @@ for course in courses:
             seen[key] = {
                 "name": assignment_name,
                 "course": course_name,
-                "due_at": due_at,
-                "first_seen": datetime.now().isoformat(),
-            }
-            if send_notification(
-                title=f"New Assignment: {course_name}",
-                message=f"{assignment_name}\nDue: {due_str}\nWorth: {points_str}",
-                priority="default"
-            ):
-                print(f"  ✓ New assignment: [{course_name}] {assignment_name}")
-                found += 1
-
-        else:
-            stored_due = seen[key].get("due_at")
-            if due_at != stored_due:
-                old_due_str                 = format_due_date(stored_due)
-                seen[key]["due_at"]         = due_at
-                seen[key]["due_changed_at"] = datetime.now().isoformat()
-
-                if send_notification(
-                    title=f"Deadline Changed: {course_name}",
-                    message=f"{assignment_name}\nOld due: {old_due_str}\nNew due: {due_str}",
-                    priority="high"
-                ):
-                    print(f"  ✓ Deadline changed: [{course_name}] {assignment_name}")
-                    found += 1
-
-save_json(SEEN_ASSIGNMENTS_FILE, seen)
-print(f"  → {found} assignment notification(s) sent." if found else "  → No new assignments or changes.")
+                "due_at": changes.")
 ```
 
 # ─────────────────────────────────────────────
@@ -293,4 +266,3 @@ except Exception as e:
 check_for_new_grades(courses)
 check_for_new_assignments(courses)
 print("\nDone.")
-```
