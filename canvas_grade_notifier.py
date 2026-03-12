@@ -1,5 +1,5 @@
 # “””
-Canvas Grade Notifier — iPhone Push Notifications via ntfy.sh
+Canvas Grade Notifier; iPhone Push Notifications via ntfy.sh
 
 Designed to run on GitHub Actions (free, always-on, no computer needed).
 
