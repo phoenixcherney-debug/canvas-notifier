@@ -1182,8 +1182,9 @@
   "1901_101991": {
     "name": "Watch Last Episode of \"You Are What You Eat\",",
     "course": "Biology",
-    "due_at": null,
-    "first_seen": "2026-02-26T15:07:11.568452"
+    "due_at": "2026-03-20T20:10:00Z",
+    "first_seen": "2026-02-26T15:07:11.568452",
+    "due_changed_at": "2026-03-16T21:56:00.561896"
   },
   "1901_101990": {
     "name": "You Are What You Eat Episode 2",
@@ -1313,5 +1314,11 @@
     "due_at": "2026-03-17T20:10:00Z",
     "first_seen": "2026-03-16T15:47:44.977376",
     "due_changed_at": "2026-03-16T19:36:43.534248"
+  },
+  "1901_102207": {
+    "name": "Class #1:  Protein Folding, Peer Evals, Intro to Nucleic Acids",
+    "course": "Biology",
+    "due_at": null,
+    "first_seen": "2026-03-16T21:56:00.678822"
   }
 }
