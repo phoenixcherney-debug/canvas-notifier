@@ -1500,7 +1500,8 @@
   "1859_102560": {
     "name": "4/20 - Artificial Intelligence Research",
     "course": "World Literature",
-    "due_at": "2026-04-21T05:00:00Z",
-    "first_seen": "2026-04-20T15:49:10.811321"
+    "due_at": "2026-04-23T05:00:00Z",
+    "first_seen": "2026-04-20T15:49:10.811321",
+    "due_changed_at": "2026-04-22T17:12:41.261324"
   }
 }
