@@ -1503,5 +1503,95 @@
     "due_at": "2026-04-23T05:00:00Z",
     "first_seen": "2026-04-20T15:49:10.811321",
     "due_changed_at": "2026-04-22T17:12:41.261324"
+  },
+  "2046_102417": {
+    "name": "Week 4 Art Studio Habits",
+    "course": "Arts Survey-T3",
+    "due_at": "2026-01-10T06:00:00Z",
+    "first_seen": "2026-04-24T00:00:35.450620"
+  },
+  "2046_102418": {
+    "name": "Week 5 Art Studio Habits",
+    "course": "Arts Survey-T3",
+    "due_at": "2026-01-17T06:00:00Z",
+    "first_seen": "2026-04-24T00:00:35.684592"
+  },
+  "2046_102419": {
+    "name": "Week 6 Art Studio Habits",
+    "course": "Arts Survey-T3",
+    "due_at": "2026-01-24T06:00:00Z",
+    "first_seen": "2026-04-24T00:00:35.915903"
+  },
+  "2046_102420": {
+    "name": "Week 7 Art Studio Habits",
+    "course": "Arts Survey-T3",
+    "due_at": "2026-01-31T06:00:00Z",
+    "first_seen": "2026-04-24T00:00:36.142831"
+  },
+  "2046_102421": {
+    "name": "Week 8 Art Studio Habits",
+    "course": "Arts Survey-T3",
+    "due_at": "2026-02-21T06:00:00Z",
+    "first_seen": "2026-04-24T00:00:36.382386"
+  },
+  "2046_102422": {
+    "name": "Week 9 Art Studio Habits",
+    "course": "Arts Survey-T3",
+    "due_at": "2026-02-28T06:00:00Z",
+    "first_seen": "2026-04-24T00:00:36.771241"
+  },
+  "2046_102413": {
+    "name": "Week 10 Art Studio Habits",
+    "course": "Arts Survey-T3",
+    "due_at": "2026-03-07T06:00:00Z",
+    "first_seen": "2026-04-24T00:00:37.014825"
+  },
+  "2046_102414": {
+    "name": "Week 11 Art Studio Habits",
+    "course": "Arts Survey-T3",
+    "due_at": "2026-03-14T05:00:00Z",
+    "first_seen": "2026-04-24T00:00:37.374995"
+  },
+  "2046_102406": {
+    "name": "Jars Artist Reflection Submission",
+    "course": "Arts Survey-T3",
+    "due_at": "2026-03-21T05:00:00Z",
+    "first_seen": "2026-04-24T00:00:37.697072"
+  },
+  "2046_102412": {
+    "name": "Week 1 Art Studio Habits",
+    "course": "Arts Survey-T3",
+    "due_at": "2026-04-11T05:00:00Z",
+    "first_seen": "2026-04-24T00:00:37.943612"
+  },
+  "2046_102415": {
+    "name": "Week 2 Art Studio Habits",
+    "course": "Arts Survey-T3",
+    "due_at": "2026-04-18T05:00:00Z",
+    "first_seen": "2026-04-24T00:00:38.206748"
+  },
+  "2046_102416": {
+    "name": "Week 3 Art Studio Habits",
+    "course": "Arts Survey-T3",
+    "due_at": "2026-04-25T05:00:00Z",
+    "first_seen": "2026-04-24T00:00:38.531411"
+  },
+  "2046_102410": {
+    "name": "Pinch Pot Creatures Overview",
+    "course": "Arts Survey-T3",
+    "due_at": "2026-05-07T05:00:00Z",
+    "first_seen": "2026-04-24T00:00:38.770518"
+  },
+  "2046_102408": {
+    "name": "Mugz Overview",
+    "course": "Arts Survey-T3",
+    "due_at": "2026-05-16T05:00:00Z",
+    "first_seen": "2026-04-24T00:00:39.001492"
+  },
+  "2046_102407": {
+    "name": "Jars Overview",
+    "course": "Arts Survey-T3",
+    "due_at": "2026-05-30T05:00:00Z",
+    "first_seen": "2026-04-24T00:00:39.212579"
   }
 }

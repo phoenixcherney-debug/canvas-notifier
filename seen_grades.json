@@ -1328,5 +1328,19 @@
     "grade": "10",
     "comment_count": 0,
     "notified_at": "2026-04-20T15:48:58.203776"
+  },
+  "2046_1744687": {
+    "assignment": "Week 1 Art Studio Habits",
+    "course": "Arts Survey-T3",
+    "grade": "10",
+    "comment_count": 0,
+    "notified_at": "2026-04-24T00:00:09.634698"
+  },
+  "2046_1744720": {
+    "assignment": "Week 2 Art Studio Habits",
+    "course": "Arts Survey-T3",
+    "grade": "10",
+    "comment_count": 0,
+    "notified_at": "2026-04-24T00:00:10.286137"
   }
 }
