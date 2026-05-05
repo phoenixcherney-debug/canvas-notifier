@@ -1349,5 +1349,26 @@
     "grade": "10",
     "comment_count": 0,
     "notified_at": "2026-04-24T21:29:13.299331"
+  },
+  "1985_1750568": {
+    "assignment": "exam - preterite/imperfect",
+    "course": "Spanish II",
+    "grade": "57",
+    "comment_count": 0,
+    "notified_at": "2026-05-05T12:10:15.081325"
+  },
+  "1985_1750588": {
+    "assignment": "Ava, la bombera",
+    "course": "Spanish II",
+    "grade": "10",
+    "comment_count": 0,
+    "notified_at": "2026-05-05T12:10:15.396413"
+  },
+  "1985_1750608": {
+    "assignment": "worksheet - preterite/imperfect",
+    "course": "Spanish II",
+    "grade": "5",
+    "comment_count": 0,
+    "notified_at": "2026-05-05T12:10:15.518316"
   }
 }
