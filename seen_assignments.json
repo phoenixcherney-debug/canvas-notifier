@@ -1599,5 +1599,29 @@
     "course": "Spanish II",
     "due_at": "2026-05-06T15:00:00Z",
     "first_seen": "2026-05-04T13:04:35.188129"
+  },
+  "1985_102654": {
+    "name": "Ava, la bombera",
+    "course": "Spanish II",
+    "due_at": "2026-04-25T05:00:00Z",
+    "first_seen": "2026-05-05T04:36:28.582289"
+  },
+  "1985_102653": {
+    "name": "exam - preterite/imperfect",
+    "course": "Spanish II",
+    "due_at": "2026-04-25T05:00:00Z",
+    "first_seen": "2026-05-05T04:36:28.783378"
+  },
+  "1985_102652": {
+    "name": "pop quiz - preterite/imperfect",
+    "course": "Spanish II",
+    "due_at": "2026-04-25T05:00:00Z",
+    "first_seen": "2026-05-05T04:36:28.888095"
+  },
+  "1985_102655": {
+    "name": "worksheet - preterite/imperfect",
+    "course": "Spanish II",
+    "due_at": "2026-04-25T05:00:00Z",
+    "first_seen": "2026-05-05T04:36:29.006933"
   }
 }
