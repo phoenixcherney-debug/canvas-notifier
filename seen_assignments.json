@@ -1507,26 +1507,30 @@
   "2046_102417": {
     "name": "Week 4 Art Studio Habits",
     "course": "Arts Survey-T3",
-    "due_at": "2026-01-10T06:00:00Z",
-    "first_seen": "2026-04-24T00:00:35.450620"
+    "due_at": "2026-05-09T05:00:00Z",
+    "first_seen": "2026-04-24T00:00:35.450620",
+    "due_changed_at": "2026-05-06T17:58:44.965317"
   },
   "2046_102418": {
     "name": "Week 5 Art Studio Habits",
     "course": "Arts Survey-T3",
-    "due_at": "2026-01-17T06:00:00Z",
-    "first_seen": "2026-04-24T00:00:35.684592"
+    "due_at": "2026-05-16T05:00:00Z",
+    "first_seen": "2026-04-24T00:00:35.684592",
+    "due_changed_at": "2026-05-06T17:58:45.215978"
   },
   "2046_102419": {
     "name": "Week 6 Art Studio Habits",
     "course": "Arts Survey-T3",
-    "due_at": "2026-01-24T06:00:00Z",
-    "first_seen": "2026-04-24T00:00:35.915903"
+    "due_at": "2026-05-23T05:00:00Z",
+    "first_seen": "2026-04-24T00:00:35.915903",
+    "due_changed_at": "2026-05-06T17:58:45.421460"
   },
   "2046_102420": {
     "name": "Week 7 Art Studio Habits",
     "course": "Arts Survey-T3",
-    "due_at": "2026-01-31T06:00:00Z",
-    "first_seen": "2026-04-24T00:00:36.142831"
+    "due_at": "2026-05-30T05:00:00Z",
+    "first_seen": "2026-04-24T00:00:36.142831",
+    "due_changed_at": "2026-05-06T17:58:45.616599"
   },
   "2046_102421": {
     "name": "Week 8 Art Studio Habits",
