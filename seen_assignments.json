@@ -1645,5 +1645,17 @@
     "course": "World Geography",
     "due_at": "2026-05-08T05:00:00Z",
     "first_seen": "2026-05-06T16:21:19.781121"
+  },
+  "1985_102697": {
+    "name": "audio recording - reading",
+    "course": "Spanish II",
+    "due_at": "2026-05-08T15:30:00Z",
+    "first_seen": "2026-05-08T14:57:37.615979"
+  },
+  "1985_102698": {
+    "name": "audio recording - summary",
+    "course": "Spanish II",
+    "due_at": "2026-05-08T15:30:00Z",
+    "first_seen": "2026-05-08T14:57:37.969994"
   }
 }
