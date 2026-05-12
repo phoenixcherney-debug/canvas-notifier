@@ -1663,5 +1663,11 @@
     "course": "Biology",
     "due_at": "2026-05-08T20:55:00Z",
     "first_seen": "2026-05-08T19:19:11.198053"
+  },
+  "1859_102715": {
+    "name": "Article of the Week #10 -- your choice!",
+    "course": "World Literature",
+    "due_at": "2026-05-14T21:00:00Z",
+    "first_seen": "2026-05-12T15:09:29.270056"
   }
 }
