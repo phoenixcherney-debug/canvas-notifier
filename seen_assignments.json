@@ -1649,8 +1649,9 @@
   "1985_102697": {
     "name": "audio recording - reading",
     "course": "Spanish II",
-    "due_at": "2026-05-08T15:30:00Z",
-    "first_seen": "2026-05-08T14:57:37.615979"
+    "due_at": "2026-05-22T15:30:00Z",
+    "first_seen": "2026-05-08T14:57:37.615979",
+    "due_changed_at": "2026-05-22T15:26:04.477952"
   },
   "1985_102698": {
     "name": "audio recording - summary",
