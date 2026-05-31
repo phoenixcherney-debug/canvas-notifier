@@ -1468,5 +1468,40 @@
     "grade": "0.5",
     "comment_count": 0,
     "notified_at": "2026-05-29T18:40:47.132472"
+  },
+  "2046_1744632": {
+    "assignment": "Jars Overview",
+    "course": "Arts Survey-T3",
+    "grade": "19",
+    "comment_count": 0,
+    "notified_at": "2026-05-31T22:15:47.745658"
+  },
+  "2046_1744643": {
+    "assignment": "Mugz Overview",
+    "course": "Arts Survey-T3",
+    "grade": "18.5",
+    "comment_count": 0,
+    "notified_at": "2026-05-31T22:15:47.805858"
+  },
+  "2046_1744665": {
+    "assignment": "Pinch Pot Creatures Overview",
+    "course": "Arts Survey-T3",
+    "grade": "19",
+    "comment_count": 0,
+    "notified_at": "2026-05-31T22:15:47.863205"
+  },
+  "2046_1744764": {
+    "assignment": "Week 6 Art Studio Habits",
+    "course": "Arts Survey-T3",
+    "grade": "10",
+    "comment_count": 0,
+    "notified_at": "2026-05-31T22:15:47.930682"
+  },
+  "2046_1744775": {
+    "assignment": "Week 7 Art Studio Habits",
+    "course": "Arts Survey-T3",
+    "grade": "10",
+    "comment_count": 0,
+    "notified_at": "2026-05-31T22:15:48.392229"
   }
 }
