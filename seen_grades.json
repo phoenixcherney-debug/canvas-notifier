@@ -1374,9 +1374,9 @@
   "1901_1750972": {
     "assignment": "Mitosis Homework",
     "course": "Biology",
-    "grade": "0",
-    "comment_count": 0,
-    "notified_at": "2026-05-07T15:40:23.834828"
+    "grade": "3",
+    "comment_count": 1,
+    "notified_at": "2026-06-01T18:50:58.693918"
   },
   "1948_1659877": {
     "assignment": "Foreign Aid formal class discussion",
@@ -1503,5 +1503,26 @@
     "grade": "10",
     "comment_count": 0,
     "notified_at": "2026-05-31T22:15:48.392229"
+  },
+  "1901_1751790": {
+    "assignment": "Kayo Gone:  Friday Class Assignment",
+    "course": "Biology",
+    "grade": "3",
+    "comment_count": 1,
+    "notified_at": "2026-06-01T18:50:58.905084"
+  },
+  "1985_1751719": {
+    "assignment": "audio recording - reading",
+    "course": "Spanish II",
+    "grade": "10",
+    "comment_count": 0,
+    "notified_at": "2026-06-01T18:51:02.564312"
+  },
+  "1985_1751739": {
+    "assignment": "audio recording - summary",
+    "course": "Spanish II",
+    "grade": "9",
+    "comment_count": 0,
+    "notified_at": "2026-06-01T18:51:02.802614"
   }
 }
