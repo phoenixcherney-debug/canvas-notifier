@@ -1545,5 +1545,26 @@
     "grade": "N/A",
     "comment_count": 0,
     "notified_at": "2026-06-04T19:38:36.983295"
+  },
+  "1985_1749425": {
+    "assignment": "in-class assignment for Monday",
+    "course": "Spanish II",
+    "grade": "5",
+    "comment_count": 0,
+    "notified_at": "2026-06-05T04:43:40.527517"
+  },
+  "1985_1754814": {
+    "assignment": "cumulative quiz",
+    "course": "Spanish II",
+    "grade": "6",
+    "comment_count": 0,
+    "notified_at": "2026-06-05T04:43:40.622788"
+  },
+  "1985_1755318": {
+    "assignment": "Final book reading",
+    "course": "Spanish II",
+    "grade": "10",
+    "comment_count": 0,
+    "notified_at": "2026-06-05T04:43:40.669877"
   }
 }
